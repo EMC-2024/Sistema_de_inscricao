@@ -1,0 +1,40 @@
+
+# Inscrição em Treinamento
+
+Este projeto permite que usuários realizem inscrições em treinamento oferecidos pela Universidade Tuiuti do Paraná. Os usuários podem selecionar seu departamento, escolher um treinamento e indiciar sua disponibilidade.
+
+---------------------------------------------------------------------------------------------------------------
+## Tecnologias Utilizadas
+
+- PHP: para o beckend e manipulação do banco de dados
+- MySQL: Para o gerenciamento do banco de dados.
+- HTML: Para a construção da interface do usuário.
+- Bootstrap: para estilização.
+
+---------------------------------------------------------------------------------------------------------------
+## Pré-requisitos
+
+Antes de começar, verifique se você tem o seguinte instalado:
+- WAMPserver ou um servidor local similar para rodar PHP e MySQL.
+- phpMyAdmin para gerenciar seu banco de dados.
+
+---------------------------------------------------------------------------------------------------------------
+## Configuração do Banco de Dados
+
+1. Crie um Banco de Dados: no phpMyAdmin, crie um banco de dados chamado inscricoes.
+2. Tabelas: crie as tabelas necessárias (departamento, treinamento, etc.) conforme seu modelo de dados.
+3. Insira Dados: Popule as tabelas com dados de teste
+
+---------------------------------------------------------------------------------------------------------------
+## Como usar
+
+1. Clone o repositório ou baixe os arquivos.
+2. Coloque os arquivos na pasta do seuservidor WAMP (ex:\wamp64\inscricao_treinamento).
+3. Configure o arquivo conexao.php com as credenciais do seu banco de dados.
+4. Acesse http://localhost/inscricao_treinamento/index.php em seu navegador.## Documentação de cores
+
+
+---------------------------------------------------------------------------------------------------------------
+| Cor               | Hexadecimal                                                |
+| ----------------- | ---------------------------------------------------------------- |
+| Cor verde       | ![#17562f](https://via.placeholder.com/10/0a192f?text=+)
